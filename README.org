@@ -1,0 +1,9 @@
+* hu.dwim.bluez
+
+BlueZ Bluetooth bindings for Common Lisp.
+
+|---------+---------------------------------------------------|
+| source  | git:https://github.com/hu-dwim/hu.dwim.bluez.git |
+| commit  | 4c4b067                                           |
+| systems | hu.dwim.bluez                                     |
+|---------+---------------------------------------------------|
