@@ -7,3 +7,4 @@ BlueZ Bluetooth bindings for Common Lisp.
 | commit  | 4c4b067                                           |
 | systems | hu.dwim.bluez                                     |
 |---------+---------------------------------------------------|
+ 
